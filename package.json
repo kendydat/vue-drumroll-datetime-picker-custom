@@ -1,34 +1,13 @@
 {
-  "_args": [
-    [
-      "vue-drumroll-datetime-picker@1.0.5",
-      "D:\\Lion-Garden\\PillOrder\\frontend"
-    ]
-  ],
-  "_from": "vue-drumroll-datetime-picker@1.0.5",
-  "_id": "vue-drumroll-datetime-picker@1.0.5",
-  "_inBundle": false,
-  "_integrity": "sha512-YSD3nXvZjIBcilXylpFZwCjaZkW/uVPe1F20NTP730m0gfky7e/YXXaw6xzbmu3gMk3HSz94STD0rlDWDWonfA==",
-  "_location": "/vue-drumroll-datetime-picker",
-  "_phantomChildren": {},
   "_requested": {
     "type": "version",
     "registry": true,
-    "raw": "vue-drumroll-datetime-picker@1.0.5",
-    "name": "vue-drumroll-datetime-picker-custom",
-    "escapedName": "vue-drumroll-datetime-picker-custom",
+    "raw": "vue-drumroll-datetime-picker-custom-test@1.0.5",
+    "name": "vue-drumroll-datetime-picker-custom-test",
+    "escapedName": "vue-drumroll-datetime-picker-custom-test",
     "rawSpec": "1.0.5",
     "saveSpec": null,
     "fetchSpec": "1.0.5"
-  },
-  "_requiredBy": [
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/vue-drumroll-datetime-picker/-/vue-drumroll-datetime-picker-1.0.5.tgz",
-  "_spec": "1.0.5",
-  "_where": "D:\\Lion-Garden\\PillOrder\\frontend",
-  "author": {
-    "name": "m_enomoto@plus-one.tech"
   },
   "bugs": {
     "url": "https://github.com/plusone-masaki/vue-drumroll-datetime-picker/issues"
