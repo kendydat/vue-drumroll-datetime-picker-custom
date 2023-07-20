@@ -15,8 +15,8 @@
     "type": "version",
     "registry": true,
     "raw": "vue-drumroll-datetime-picker@1.0.5",
-    "name": "vue-drumroll-datetime-picker",
-    "escapedName": "vue-drumroll-datetime-picker",
+    "name": "vue-drumroll-datetime-picker-custom",
+    "escapedName": "vue-drumroll-datetime-picker-custom",
     "rawSpec": "1.0.5",
     "saveSpec": null,
     "fetchSpec": "1.0.5"
