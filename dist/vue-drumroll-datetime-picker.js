@@ -672,6 +672,7 @@ var useDialog = {
       document.removeEventListener('wheel', disableScroll);
       document.removeEventListener('touchmove', disableScroll);
       this.active = false;
+      this.$emit('close', e);
     },
   },
 };
